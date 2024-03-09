@@ -8,5 +8,5 @@ location = input("Where are you located?")
 
 
 # Print
-print(f"Hello {name}, you are {age} years old and live in {location}.") 
+print(f"Hello {name}, you are {age} years old and live in {location}.")
 
